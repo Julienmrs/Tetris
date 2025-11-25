@@ -2,7 +2,7 @@
 
  Le tetris a été fait avec l'aide des bibliothèques utilisées en cours, GLFW, Glew, random et réalisé sur  QtCreator dans un wsl (Windows Subsystem for Linux).
  Pour le lancer il est nécessaire de posséder les différentes bibliothèques utilisées (et leur version utilisées) :
- 
+ # ------------Modifier le path pour les shaders en chemin absolu --------------
  - GLFW 
  - GLEW
  - GLM
