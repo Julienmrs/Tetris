@@ -9,18 +9,12 @@ find_package(OpenGL REQUIRED)
 add_executable(Tetris3d
     main.cpp
     shader.h shader.cpp
-
-
     cube.h cube.cpp
     camera.h camera.cpp
     plateau.h plateau.cpp
-    fragmentshader.fragmentshader vertexshader.vertexshader
     tetromino.h tetromino.cpp
     game.h game.cpp
 
-
-    tempo.cpp
-    tempo.h
 
 )
 
